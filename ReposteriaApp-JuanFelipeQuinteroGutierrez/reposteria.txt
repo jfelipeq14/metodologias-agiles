@@ -1,0 +1,53 @@
+--Juan F. Quintero
+--Sara Restrepo
+--Robert M. Garcia
+
+Sector : Alimentario
+
+Proceso organizacional :  Ventas
+
+Objetivo: 
+
+Implementar una estrategia adecuada para aligerar ventas y producción de productos alimenticios; mediante un sistema de información, para satisfacer a nuestros clientes.
+
+Funcionamiento:
+
+Usuario -->
+1. inicio
+2. Abrir la aplicación
+3. registrarse como usuario (clientes).
+4. ingreso.
+5. vista y lectura de productos.
+6. selección de productos.
+7. envío de información por medio del formulario pertinente hacia los encargados y/o administradores.
+8. realización de pago (pse).
+9. recibir producto.
+10. calificación del servicio.
+11. Cerrar sesión.
+12. fin.
+
+Pagar -->
+1. Inicio
+2. Elegir el método de pago
+3. Seleccionar entidad bancaria
+4. Acceder a pse
+5. Rellenar la información requerida
+6. Validar pago
+7. Obtener el comprobante de pago
+8. Fin
+
+Administrador -->
+1. inicio
+2. Abrir la aplicación
+3. registrarse como Administrador (clientes).
+4. ingreso.
+5. Visualizar lista de pedidos.
+6. Confirmación de la realización del producto.
+7. Envío del producto.
+8. Ver calificación del servicio.
+9. Fin.
+
+
+Los pasos anteriores logran un objetivo muy claro. Queremos satisfacer los clientes y agilizar tanto los pagos como la entrega de productos.
+
+La tienda virtual ahorra tiempo y dinero, por eso optamos por una tienda de esta manera y así poder llegar a miles de personas de la mejor manera para satisfacer una gran necesidad básica (la comida).
